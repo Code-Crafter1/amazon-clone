@@ -1,5 +1,4 @@
 # amazon-clone
-This is my first git Repository.
-<br>
+This is my first git Repositor.
 Author-Sakshi
 
