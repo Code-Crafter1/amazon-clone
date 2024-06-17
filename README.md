@@ -1,2 +1,4 @@
 # amazon-clone
 This is my first git Repository
+Author-Sakshi
+
